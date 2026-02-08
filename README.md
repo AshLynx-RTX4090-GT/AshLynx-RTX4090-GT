@@ -87,12 +87,6 @@
 
 <!------ BACKGROUNDS----->
 <!------ GIF IMAGE----->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:3cff00,50:00ff99,100:00cc66&text=CLOUD%20ARCHITECT&fontSize=50&fontAlign=50&fontColor=000000&animation=fadeIn" />
-</div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AshLynx-RTX4090-GT/pixel-assets/main/minecraft-wave.svg" />
-</div>
 
 <!------ GIF IMAGE----->
 <h1 align="center">
