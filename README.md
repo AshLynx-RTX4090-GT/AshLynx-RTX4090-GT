@@ -158,15 +158,3 @@
 <h4 align="center">Hello to my LYNX World!! "It doesn't matter how it's done. It doesn't matter what needs to be sacrificed. In this world, winning is everything."</h4>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AshLynx-RTX4090-GT/AshLynx-RTX4090-GT/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AshLynx-RTX4090-GT/AshLynx-RTX4090-GT/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AshLynx-RTX4090-GT/AshLynx-RTX4090-GT/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/AshLynx-RTX4090-GT/AshLynx-RTX4090-GT/output/snake.svg" alt="Snake animation" />
-
-###
