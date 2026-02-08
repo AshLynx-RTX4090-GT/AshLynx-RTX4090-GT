@@ -1,7 +1,7 @@
 <!-- Cloud Architect Hero Section -->
 <!-- Futuristic Stats Core -->
 <div align="center">
-
+  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshLynx-RTX4090-GT&bg_color=0d1117&color=00ffff&line=ff00ff&point=00ff99&area=true&hide_border=true" />
 
 <br><br>
@@ -45,19 +45,15 @@
 <!------ BADGES----->
 
 <!------ BACKGROUNDS----->
-
 <!------ BACKGROUNDS----->
 <h1 align="center">
   ☁️ <span style="color:#00ffff;">CLOUD</span>
-  <span style="color:#ff00ff;">ARCHITECT</span> ☁️
+  <span style="color:#ff0033;">ARCHITECT</span> ☁️
 </h1>
 
-<h3 align="center" style="letter-spacing:2px;">
+<h3 align="center">
   AWS • Azure • Google Cloud • DevOps • AI/ML
 </h3>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:ff00ff&height=4&section=header" />
-
 
 ###
 
