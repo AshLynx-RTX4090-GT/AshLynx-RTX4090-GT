@@ -1,7 +1,8 @@
 <!-- Cloud Architect Hero Section -->
 <div align="center">
-  <img height="220" src="https://giffiles.alphacoders.com/222/222254.gif" />
+  <img height="200" src="https://i.pinimg.com/originals/f3/3c/12/f33c129de2dc9b8f9ed2e7aa72d44c1d.gif"  />
 </div>
+
 
 <h1 align="center" style="font-size:48px; letter-spacing:3px;">
   ☁️ CLOUD ARCHITECT ☁️
