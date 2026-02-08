@@ -1,36 +1,16 @@
 <!-- Cloud Architect Hero Section -->
 <div align="center">
-
-<img src="https://img.shields.io/github/stars/AshLynx-RTX4090-GT?style=for-the-badge&color=00ffff&label=Total%20Stars" />
-<img src="https://img.shields.io/github/forks/AshLynx-RTX4090-GT?style=for-the-badge&color=ff00ff&label=Forks" />
-<img src="https://img.shields.io/github/last-commit/AshLynx-RTX4090-GT?style=for-the-badge&color=00ff99&label=Last%20Update" />
-
-</div>
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AshLynx-RTX4090-GT&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AshLynx-RTX4090-GT&theme=tokyonight&hide_border=true" />
 </div>
-<!-- Cyberpunk Video Background -->
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
-</div>
 
-<h1 align="center" style="color:#00ffff;">
-  🌌 CLOUD ARCHITECT
+
+<h1 align="center" style="font-size:48px; letter-spacing:3px;">
+  ☁️ CLOUD ARCHITECT ☁️
 </h1>
-<div align="center">
-  <video src="https://cdn.coverr.co/videos/coverr-futuristic-server-room-9714/1080p.mp4"
-         width="100%"
-         muted
-         loop
-         controls>
-  </video>
-</div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=120&section=header" />
-
 
 <h3 align="center">
   AWS • Azure • Google Cloud • DevOps • AI/ML
