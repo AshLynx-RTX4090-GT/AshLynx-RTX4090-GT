@@ -95,7 +95,7 @@
 </h1>
 
 <h3 align="center">
-  AWS • Azure • Google Cloud • DevOps • AI/ML
+  AWS • Azure • Google Cloud • DevOps • AI/ML • Blockchain
 </h3>
 
 ###
