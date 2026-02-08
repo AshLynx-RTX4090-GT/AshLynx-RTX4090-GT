@@ -86,6 +86,9 @@
 </p>
 
 <!------ BACKGROUNDS----->
+<!------ GIF IMAGE----->
+
+<!------ GIF IMAGE----->
 <h1 align="center">
   ☁️ <span style="color:#00ffff;">CLOUD</span>
   <span style="color:#ff0033;">ARCHITECT</span> ☁️
