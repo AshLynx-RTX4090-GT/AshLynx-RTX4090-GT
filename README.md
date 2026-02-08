@@ -1,158 +1,172 @@
-<!-- SOLO LEVELING VIDEO HEADER -->
 <div align="center">
-  <video autoplay loop muted playsinline width="100%">
-    <source src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/dark-clouds.mp4" type="video/mp4">
-  </video>
+  <img height="200" src="https://giffiles.alphacoders.com/222/222254.gif"  />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0ff,100:8000ff&text=Cloud%20Architect&fontSize=55&fontColor=ffffff&animation=fadeIn" />
-</div>
-
-<h1 align="center">🖤 Hi, I'm Ashirbad ⚡</h1>
-<h3 align="center">☁️ Multi-Cloud Architect | 🤖 AI/ML Engineer | ⚔️ Shadow Monarch Builder</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AWS+%7C+Azure+%7C+Google+Cloud;Cloud+Architecture+%26+DevOps;AI%2FML+%7C+Flutter+%7C+Full+Stack;Designing+the+Future+with+Code" />
-</p>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/QvBoMEcQ7DQXK/giphy.gif" width="500"/>
-</div>
-
-<p align="center"><b>ARISE.</b></p>
-
----
-
-## 🧠 About Me
-
-🚀 Cloud Architect obsessed with **scalable systems, automation, and AI-driven solutions**  
-🌐 Designing **production-grade multi-cloud infrastructure**  
-🤖 Integrating **AI/ML into real-world systems**  
-🔥 I don’t just write code — **I architect the future**
-
----
-
-<div align="center">
-  <video autoplay loop muted playsinline width="90%">
-    <source src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/dark-portal.mp4" type="video/mp4">
-  </video>
-</div>
-
-## ☁️ Cloud & Architecture Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,linux,git&theme=dark" />
-</p>
-
----
-
-## 🧑‍💻 Programming & Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,flutter,nodejs,react&theme=dark" />
-</p>
-
----
-
-## 🤖 AI / ML & Data
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
-</p>
-
----
-
-## ⚙️ DevOps & Automation
-
-- CI/CD Pipelines (GitHub Actions)
-- Infrastructure as Code (Terraform)
-- Containerized Microservices
-- Auto-Scaling & High Availability
-- Secure Networking & IAM
-
----
-
-## 🌌 Featured Projects
-
-🚀 **AuthenChain** – Blockchain Digital Identity  
-☁️ **Multi-Cloud DR System**  
-🤖 **AI-Powered Cloud Monitoring**  
-📱 **Flutter Cloud-Native Apps**
-
----
-
-## 🎴 Shadow Aura
-
-<div align="center">
-  <img height="200" src="https://giffiles.alphacoders.com/222/222254.gif" />
-</div>
-
----
-
-## 🎧 Currently Vibing
+###
 
 <div align="center">
   <a href="https://open.spotify.com/user/31vyqh4hhyd2ucienzk4npl3z2ty">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vyqh4hhyd2ucienzk4npl3z2ty&count=5&unique=true" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vyqh4hhyd2ucienzk4npl3z2ty&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
----
-
-## 🟡 Contribution Graph
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AshLynx-RTX4090-GT/AshLynx-RTX4090-GT/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AshLynx-RTX4090-GT/AshLynx-RTX4090-GT/output/pacman-contribution-graph.svg">
-  <img src="https://raw.githubusercontent.com/AshLynx-RTX4090-GT/AshLynx-RTX4090-GT/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AshLynx-RTX4090-GT/AshLynx-RTX4090-GT/output/pacman-contribution-graph.svg">
 </picture>
 
-<img src="https://raw.githubusercontent.com/AshLynx-RTX4090-GT/AshLynx-RTX4090-GT/output/snake.svg" />
+###
 
----
+<img src="https://raw.githubusercontent.com/AshLynx-RTX4090-GT/AshLynx-RTX4090-GT/output/snake.svg" alt="Snake animation" />
 
-## 📊 GitHub Stats
+###
 
-<div align="center">
-  <video autoplay loop muted playsinline width="100%">
-    <source src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/dark-energy.mp4" type="video/mp4">
-  </video>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AshLynx-RTX4090-GT&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshLynx-RTX4090-GT&theme=tokyonight&hide_border=true" height="170"/>
+<div align="left">
+  <a href="https://www.youtube.com/@rival4kcopyrightsongsr.c.s630" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://x.com/AshirbadRTX" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/32273339/ashirbad-biswal-rtx-5090" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  </a>
+  <a href="http://t.me/@ashirbadwarzone_95esports" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="https://m.facebook.com/LYNXKILLER17/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/ashkingwarzone_gamerz90/?igsh=MWtvZW1zODd0cnZuaQ%3D%3D" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/ashirbad-biswal-17lynx4090?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="ashirbadbiswal82791@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="ashirbadbiswal82791@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="discordapp.com/users/1084505728947077220" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://gitlab.com/AshLynx-RTX4090-GT" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="52" height="40" alt="gitlab logo"  />
+  </a>
+  <a href="https://dribbble.com/lynx-ashking-90" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="52" height="40" alt="dribbble logo"  />
+  </a>
+  <a href="https://codepen.io/AshLynx-RTX4090-GT" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
+  </a>
+  <a href="https://www.behance.net/ashirbabiswal" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
+  </a>
 </div>
 
----
-
-## 🔗 Connect With Me
+###
 
 <div align="center">
-  <a href="https://www.youtube.com/@rival4kcopyrightsongsr.c.s630"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52"/></a>
-  <a href="https://x.com/AshirbadRTX"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52"/></a>
-  <a href="https://stackoverflow.com/users/32273339/ashirbad-biswal-rtx-5090"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52"/></a>
-  <a href="https://t.me/ashirbadwarzone_95esports"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52"/></a>
-  <a href="https://www.instagram.com/ashkingwarzone_gamerz90"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52"/></a>
-  <a href="https://www.linkedin.com/in/ashirbad-biswal-17lynx4090"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52"/></a>
-  <a href="mailto:ashirbadbiswal82791@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52"/></a>
-  <a href="https://discordapp.com/users/1084505728947077220"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52"/></a>
-  <a href="https://gitlab.com/AshLynx-RTX4090-GT"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="52"/></a>
+  <img src="https://count.getloli.com/@:AshLynx-RTX4090-GT?theme=booru-lewd&padding=7&offset=0&scale=1.5&align=top&pixelated=1&darkmode=1"  />
 </div>
 
----
+###
 
-<div align="center">
-  <img src="https://count.getloli.com/@:AshLynx-RTX4090-GT?theme=booru-lewd&darkmode=1&pixelated=1" />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&reversal=false&text=17&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FFFFFF&strokeWidth=4&animation=fadeIn&desc=LYNXKILLER&descSize=31&descAlign=30&descAlignY=50&textBg=true&color=gradient"  />
 </div>
 
----
+###
 
-<h4 align="center">
-Hello to my LYNX World!!<br/>
-"It doesn't matter how it's done. It doesn't matter what needs to be sacrificed.
-In this world, winning is everything."
-</h4>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&text=LYNXKILLER&fontColor=FFFFFF&animation=fadeIn&color=gradient" />
+<div align="right">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" height="40" alt="anaconda logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="40" alt="android logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="arduino logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="40" alt="azure logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original-wordmark.svg" height="40" alt="chrome logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" height="40" alt="codepen logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" height="40" alt="dart logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original-wordmark.svg" height="40" alt="google logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" height="40" alt="kotlin logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" height="40" alt="solidity logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" height="40" alt="tensorflow logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=actix" height="40" alt="actix logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/remix/000000" height="40" alt="remix logo"  />
 </div>
+
+###
+
+<h4 align="center">Hello to my LYNX World!! "It doesn't matter how it's done. It doesn't matter what needs to be sacrificed. In this world, winning is everything."</h4>
+
+###
