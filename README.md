@@ -1,5 +1,18 @@
+<!-- Cloud Architect Hero Section -->
 <div align="center">
-  <img height="200" src="https://giffiles.alphacoders.com/222/222254.gif"  />
+  <img height="220" src="https://giffiles.alphacoders.com/222/222254.gif" />
+</div>
+
+<h1 align="center" style="font-size:48px; letter-spacing:3px;">
+  ☁️ CLOUD ARCHITECT ☁️
+</h1>
+
+<h3 align="center">
+  AWS • Azure • Google Cloud • DevOps • AI/ML
+</h3>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header" />
 </div>
 
 ###
