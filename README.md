@@ -1,7 +1,8 @@
-<!-- Cloud Architect Hero Section -->
+<!--GIRLS WHO CODE -->
 <div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="500">
 <br><br>
+
 <!-- Futuristic Stats Core -->
 <div align="center">
   
@@ -253,3 +254,53 @@
 <h4 align="center">Hello to my LYNX World!! "It doesn't matter how it's done. It doesn't matter what needs to be sacrificed. In this world, winning is everything."</h4>
 
 ###
+<div align="center">
+  <svg width="100%" height="180" viewBox="0 0 1000 180" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <filter id="hyper-glow" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="5" result="blur" />
+        <feComposite in="SourceGraphic" in2="blur" operator="over" />
+      </filter>
+
+  <linearGradient id="cyber-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00FFFF">
+          <animate attributeName="stop-color" values="#00FFFF; #FF00FF; #00FF99; #00FFFF" dur="4s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#FF00FF">
+          <animate attributeName="stop-color" values="#FF00FF; #00FFFF; #FF00FF; #FF00FF" dur="4s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+
+   <radialGradient id="aura" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stop-color="#00FFFF" stop-opacity="0.1" />
+        <stop offset="100%" stop-color="#000" stop-opacity="0" />
+      </radialGradient>
+    </defs>
+
+   <circle cx="500" cy="90" r="400" fill="url(#aura)">
+      <animate attributeName="r" values="300;450;300" dur="3s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite" />
+    </circle>
+
+   <text x="50%" y="50%" 
+  dominant-baseline="middle" 
+  text-anchor="middle" 
+ font-family="'Orbitron', sans-serif" 
+  font-size="65" 
+ font-weight="900" 
+ fill="url(#cyber-gradient)" 
+ filter="url(#hyper-glow)"
+style="letter-spacing: 5px; text-transform: uppercase;">
+~ AshLynx-RTX4090-GT
+      
+  <animateTransform attributeName="transform" type="translate" values="0 0; 0 -5; 0 0" dur="2s" repeatCount="indefinite" />
+      
+  <animate attributeName="opacity" values="1; 0.8; 0.9; 1; 0.7; 1" dur="5s" repeatCount="indefinite" />
+    </text>
+
+  <rect x="250" y="130" width="500" height="2" fill="url(#cyber-gradient)">
+      <animate attributeName="width" values="0;500;0" dur="4s" repeatCount="indefinite" />
+      <animate attributeName="x" values="500;250;500" dur="4s" repeatCount="indefinite" />
+    </rect>
+  </svg>
+</div>
