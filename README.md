@@ -1,24 +1,63 @@
 <!-- Cloud Architect Hero Section -->
+<!-- Futuristic Stats Core -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshLynx-RTX4090-GT&show_icons=true&theme=tokyonight&hide_border=true" />
-</div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AshLynx-RTX4090-GT&bg_color=0d1117&color=00ffff&line=ff00ff&point=00ff99&area=true&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=AshLynx-RTX4090-GT&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AshLynx-RTX4090-GT&theme=tokyonight&hide_border=true&border_radius=15" />
+
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AshLynx-RTX4090-GT&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Designing+Scalable+Cloud+Systems;Automating+Infrastructure+at+Scale;Architecting+the+Future+☁️" />
 </div>
+<!------ BADGES----->
+<div align="center">
 
+<img src="https://img.shields.io/badge/Role-Cloud%20Architect-00FFFF?style=for-the-badge&logo=icloud&logoColor=white" />
+<img src="https://img.shields.io/github/followers/AshLynx-RTX4090-GT?style=for-the-badge&color=FF00FF&logo=github" />
+<img src="https://img.shields.io/github/stars/AshLynx-RTX4090-GT?style=for-the-badge&color=00FF99&logo=github" />
 
-<h1 align="center" style="font-size:48px; letter-spacing:3px;">
-  ☁️ CLOUD ARCHITECT ☁️
+</div>
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws&logoColor=black" />
+<img src="https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cloud-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/DevOps-Automation-00FFCC?style=for-the-badge&logo=git&logoColor=black" />
+<img src="https://img.shields.io/badge/AI%2FML-Intelligent%20Systems-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+</div>
+<div align="center">
+<img src="https://img.shields.io/badge/Open%20Source-Active-FF00FF?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Building%20the%20Future-00FF99?style=for-the-badge" />
+</div>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Linux-Power%20User-black?style=for-the-badge&logo=linux&logoColor=yellow" />
+<img src="https://img.shields.io/badge/Terminal-Life-00FF00?style=for-the-badge&logo=gnubash&logoColor=black" />
+<img src="https://img.shields.io/badge/Cyberpunk-Mode-FF00FF?style=for-the-badge" />
+
+</div>
+<!------ BADGES----->
+
+<!------ BACKGROUNDS----->
+
+<!------ BACKGROUNDS----->
+<h1 align="center">
+  ☁️ <span style="color:#00ffff;">CLOUD</span>
+  <span style="color:#ff00ff;">ARCHITECT</span> ☁️
 </h1>
 
-<h3 align="center">
+<h3 align="center" style="letter-spacing:2px;">
   AWS • Azure • Google Cloud • DevOps • AI/ML
 </h3>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:ff00ff&height=4&section=header" />
+
 
 ###
 
