@@ -292,8 +292,6 @@
  filter="url(#hyper-glow)"
 style="letter-spacing: 5px; text-transform: uppercase;">
 ~ AshLynx-RTX4090-GT
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
       
   <animateTransform attributeName="transform" type="translate" values="0 0; 0 -5; 0 0" dur="2s" repeatCount="indefinite" />
       
