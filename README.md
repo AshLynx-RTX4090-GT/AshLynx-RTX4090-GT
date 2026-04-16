@@ -106,12 +106,6 @@
   </a>
 </div>
 
-<!-- Most Language Used -->
-<div align="center">
-  <h2 style="color:#00FFFF">Most Language Used</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshLynx-RTX4090-GT&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
 ###
 
 <div align="left">
