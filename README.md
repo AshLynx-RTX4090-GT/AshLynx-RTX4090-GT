@@ -310,4 +310,3 @@ style="letter-spacing: 5px; text-transform: uppercase;">
     </rect>
   </svg>
 </div> 
-put this icons in horizontal line fix this only and no code chamge
